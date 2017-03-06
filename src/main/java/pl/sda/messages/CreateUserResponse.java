@@ -1,4 +1,4 @@
-package pl.sda.request;
+package pl.sda.messages;
 
 import org.codehaus.jackson.map.annotate.JsonSerialize;
 
