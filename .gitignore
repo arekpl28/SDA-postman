@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+out/
+SDA-Json.iml
+target/
+*/iml
+SDA-postman.iml
+
